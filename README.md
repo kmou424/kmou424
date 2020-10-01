@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![kmou424's github stats](https://github-readme-stats.vercel.app/api?username=kmou424&title_color=ff4081&icon_color=ff4081)
+![kmou424's github stats](https://github-readme-stats.vercel.app/api?username=kmou424&title_color=ff4081&icon_color=ff4081&count_private=true)
 
 - 🔭 I’m currently working on Android
 - 🌱 I’m currently learning C/C++/Go
