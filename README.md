@@ -1,3 +1,6 @@
+## Pinned Repo
+[![IceCream-Q](https://github-readme-stats.vercel.app/api/pin/?username=kmou424&repo=IceCream-Q)](https://github.com/kmou424/IceCream-Q)
+
 ### Hi there 👋 I'm kmou424
 
 <!--
