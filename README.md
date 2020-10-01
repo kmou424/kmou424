@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 ![kmou424's github stats](https://github-readme-stats.vercel.app/api?username=kmou424&title_color=ff4081&icon_color=ff4081&count_private=true&show_icons=true)
 
+#### Here are my programming language used usually
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmou424)
+
 - 🔭 I’m currently working on Android
 - 🌱 I’m currently learning C/C++/Go
 - 📫 How to reach me: kmou424@arkose.cn
