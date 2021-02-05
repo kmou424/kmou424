@@ -1,10 +1,7 @@
 ## Hi there 👋 I'm kmou424
 
-### Here is Pinned Repo
-[![IceCream-Q](https://github-readme-stats.vercel.app/api/pin/?username=kmou424&repo=IceCream-Q)](https://github.com/kmou424/IceCream-Q)
-
 ### Here is a project still in development
-[![Sakura](https://github-readme-stats.vercel.app/api/pin/?username=kmou424&repo=Sakura)](https://github.com/kmou424/Sakura)
+[![Merirody](https://github-readme-stats.vercel.app/api/pin/?username=kmou424&repo=Merirody)](https://github.com/kmou424/Merirody)
 
 <!--
 **kmou424/kmou424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
