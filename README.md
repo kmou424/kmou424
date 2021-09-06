@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmou424)
 
 - 🔭 I’m currently working on Android
-- 🌱 I’m currently learning C/C++/Go
+- 🌱 I’m currently learning C/C++
 - 📫 How to reach me: kmou424@arkose.cn
