@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Android
 - 🌱 I’m currently learning C/C++
-- 📫 How to reach me: kmou424@arkose.cn
+- 📫 How to reach me: me@kmou424.moe
