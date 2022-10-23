@@ -18,9 +18,12 @@ Here are some ideas to get you started:
 #### My Github Stats:
 ![kmou424's github stats](https://github-readme-stats.vercel.app/api?username=kmou424&title_color=ff4081&icon_color=ff4081&count_private=true&show_icons=true)
 
+<!--
 #### Here are my programming language used mostly:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmou424)
+-->
 
-- 🔭 I’m currently working on Android
-- 🌱 I’m currently learning C/C++
+- 🔭 I’m currently working on Informatics Competition
+- 🌱 I’m currently learning C/C++ and Kotlin
+- 🤔 I’m looking for help with Kotlin Backend Program and Custom Distribution of AOSP
 - 📫 How to reach me: me@kmou424.moe
