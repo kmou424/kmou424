@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Informatics Competition
-- 🌱 I’m currently learning C/C++ and Kotlin
-- 🤔 I’m looking for help with Kotlin Backend Program and Custom Distribution of AOSP
+- 🌱 I’m currently learning C/C++/Kotlin and Go
+- 🤔 I’m looking for help with some backend projects
 - 📫 How to reach me: me@kmou424.moe
